@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab3_tyrone\\gd13_1333_lab3_tyrone\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab3_tyrone\\gd13_1333_lab3_tyrone\\scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|solutionrelative:scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab3_tyrone\\gd13_1333_lab3_tyrone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50141C6-A565-4C4A-BAF9-109AC4A077CA}|GD13_1333_Lab3_Tyrone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:37:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiceRoller.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Scripts\\DiceRoller.cs",
+              "RelativeDocumentMoniker": "Scripts\\DiceRoller.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Scripts\\DiceRoller.cs",
+              "RelativeToolTip": "Scripts\\DiceRoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:37:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab3_Tyrone\\GD13_1333_Lab3_Tyrone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:29:46.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

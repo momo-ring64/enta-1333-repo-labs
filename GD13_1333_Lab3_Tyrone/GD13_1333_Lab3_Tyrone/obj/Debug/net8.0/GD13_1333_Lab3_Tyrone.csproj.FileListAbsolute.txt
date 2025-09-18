@@ -1,0 +1,15 @@
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\bin\Debug\net8.0\GD13_1333_Lab3_Tyrone.exe
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\bin\Debug\net8.0\GD13_1333_Lab3_Tyrone.deps.json
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\bin\Debug\net8.0\GD13_1333_Lab3_Tyrone.runtimeconfig.json
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\bin\Debug\net8.0\GD13_1333_Lab3_Tyrone.dll
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\bin\Debug\net8.0\GD13_1333_Lab3_Tyrone.pdb
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.AssemblyInfoInputs.cache
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.AssemblyInfo.cs
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.csproj.CoreCompileInputs.cache
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.sourcelink.json
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.dll
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\refint\GD13_1333_Lab3_Tyrone.dll
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.pdb
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\GD13_1333_Lab3_Tyrone.genruntimeconfig.cache
+C:\Github\enta-1333-repo-labs\GD13_1333_Lab3_Tyrone\GD13_1333_Lab3_Tyrone\obj\Debug\net8.0\ref\GD13_1333_Lab3_Tyrone.dll
