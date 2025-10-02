@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|c:\\github\\enta-1333-repo-labs\\assignment 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|c:\\github\\enta-1333-repo-labs\\assignment 1\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|c:\\github\\enta-1333-repo-labs\\assignment 1\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|c:\\github\\enta-1333-repo-labs\\assignment 1\\scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|solutionrelative:scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|c:\\github\\enta-1333-repo-labs\\assignment 1\\scripts\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC66FA25-7D96-492C-83B8-2149A9EDA0AC}|Assignment 1.csproj|solutionrelative:scripts\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "Scripts\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\ComputerPlayer.cs",
+              "RelativeToolTip": "Scripts\\ComputerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:30:05.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceRoller.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\DiceRoller.cs",
+              "RelativeDocumentMoniker": "Scripts\\DiceRoller.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\DiceRoller.cs",
+              "RelativeToolTip": "Scripts\\DiceRoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:29:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:29:32.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:29:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:28:44.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
