@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GD13_1333_Lab4_Tyrone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1954fd8975c9a739135a5ac36ba13ef8f3d3e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccd872a5fe225a6913fedbadefffae546c3de600")]
 [assembly: System.Reflection.AssemblyProductAttribute("GD13_1333_Lab4_Tyrone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GD13_1333_Lab4_Tyrone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

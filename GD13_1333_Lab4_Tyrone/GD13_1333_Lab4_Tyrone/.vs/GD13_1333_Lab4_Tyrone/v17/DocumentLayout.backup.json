@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab4_tyrone\\gd13_1333_lab4_tyrone\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab4_tyrone\\gd13_1333_lab4_tyrone\\scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|solutionrelative:scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab4_tyrone\\gd13_1333_lab4_tyrone\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab4_tyrone\\gd13_1333_lab4_tyrone\\scripts\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|solutionrelative:scripts\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303A88E4-138F-499B-9EB8-6FD914529F2C}|GD13_1333_Lab4_Tyrone.csproj|c:\\github\\enta-1333-repo-labs\\gd13_1333_lab4_tyrone\\gd13_1333_lab4_tyrone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "Scripts\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\ComputerPlayer.cs",
+              "RelativeToolTip": "Scripts\\ComputerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:29:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T02:14:05.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
               "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T00:29:41.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DiceRoller.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\DiceRoller.cs",
               "RelativeDocumentMoniker": "Scripts\\DiceRoller.cs",
               "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\DiceRoller.cs",
               "RelativeToolTip": "Scripts\\DiceRoller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T00:30:30.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Scripts\\Player.cs",
-              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\Player.cs",
-              "RelativeToolTip": "Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\GD13_1333_Lab4_Tyrone\\GD13_1333_Lab4_Tyrone\\Scripts\\Player.cs*",
+              "RelativeToolTip": "Scripts\\Player.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T00:50:16.959Z",
               "EditorCaption": ""

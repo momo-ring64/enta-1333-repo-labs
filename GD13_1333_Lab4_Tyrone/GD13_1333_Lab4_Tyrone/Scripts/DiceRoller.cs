@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace GD13_1333_Lab4_Tyrone.Scripts
+namespace DiceGame
 {
-    internal class Die
+    internal class DiceRoller
     {
         private int sides;
         private Random random = new Random();
 
-        public Die(int sides)
+        public DiceRoller(int sides)
         {
             this.sides = sides;
         }

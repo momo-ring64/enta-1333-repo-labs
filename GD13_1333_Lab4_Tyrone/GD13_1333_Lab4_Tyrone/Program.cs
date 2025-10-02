@@ -1,14 +1,14 @@
-﻿using GD13_1333_Lab4_Tyrone.Scripts;
-using System;
+﻿using System;
+using System.Collections.Generic;
 
-namespace GD13_1333_Lab4_Tyrone
+namespace DiceGame
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            GameManager manager = new GameManager();
-            manager.PlayGame();
+            GameManager game = new GameManager();
+            game.Play();
         }
     }
 }
