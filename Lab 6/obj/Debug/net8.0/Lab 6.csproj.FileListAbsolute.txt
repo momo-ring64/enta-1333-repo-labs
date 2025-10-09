@@ -1,0 +1,15 @@
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.AssemblyInfoInputs.cache
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.AssemblyInfo.cs
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.csproj.CoreCompileInputs.cache
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.sourcelink.json
+C:\Github\enta-1333-repo-labs\Lab 6\bin\Debug\net8.0\Lab 6.exe
+C:\Github\enta-1333-repo-labs\Lab 6\bin\Debug\net8.0\Lab 6.deps.json
+C:\Github\enta-1333-repo-labs\Lab 6\bin\Debug\net8.0\Lab 6.runtimeconfig.json
+C:\Github\enta-1333-repo-labs\Lab 6\bin\Debug\net8.0\Lab 6.dll
+C:\Github\enta-1333-repo-labs\Lab 6\bin\Debug\net8.0\Lab 6.pdb
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.dll
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\refint\Lab 6.dll
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.pdb
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\Lab 6.genruntimeconfig.cache
+C:\Github\enta-1333-repo-labs\Lab 6\obj\Debug\net8.0\ref\Lab 6.dll
