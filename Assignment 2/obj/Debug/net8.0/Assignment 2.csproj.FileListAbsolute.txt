@@ -1,0 +1,15 @@
+C:\Github\enta-1333-repo-labs\Assignment 2\bin\Debug\net8.0\Assignment 2.exe
+C:\Github\enta-1333-repo-labs\Assignment 2\bin\Debug\net8.0\Assignment 2.deps.json
+C:\Github\enta-1333-repo-labs\Assignment 2\bin\Debug\net8.0\Assignment 2.runtimeconfig.json
+C:\Github\enta-1333-repo-labs\Assignment 2\bin\Debug\net8.0\Assignment 2.dll
+C:\Github\enta-1333-repo-labs\Assignment 2\bin\Debug\net8.0\Assignment 2.pdb
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfo.cs
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.sourcelink.json
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.dll
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\refint\Assignment 2.dll
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.pdb
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\Assignment 2.genruntimeconfig.cache
+C:\Github\enta-1333-repo-labs\Assignment 2\obj\Debug\net8.0\ref\Assignment 2.dll
