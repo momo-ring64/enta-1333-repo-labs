@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{1C43B0F6-D689-4081-9A23-6D2D5CD814B1}|Assignment 2.csproj|solutionrelative:classes\\treasureroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C43B0F6-D689-4081-9A23-6D2D5CD814B1}|Assignment 2.csproj|c:\\github\\enta-1333-repo-labs\\assignment 2\\classes\\normalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C43B0F6-D689-4081-9A23-6D2D5CD814B1}|Assignment 2.csproj|solutionrelative:classes\\normalroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C43B0F6-D689-4081-9A23-6D2D5CD814B1}|Assignment 2.csproj|c:\\github\\enta-1333-repo-labs\\assignment 2\\classes\\emptyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C43B0F6-D689-4081-9A23-6D2D5CD814B1}|Assignment 2.csproj|solutionrelative:classes\\emptyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Consumable.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Consumable.cs",
               "RelativeDocumentMoniker": "Classes\\Consumable.cs",
@@ -70,12 +66,11 @@
               "RelativeToolTip": "Classes\\Consumable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:12:14.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T13:12:14.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Weapon.cs",
               "RelativeDocumentMoniker": "Classes\\Weapon.cs",
@@ -83,12 +78,11 @@
               "RelativeToolTip": "Classes\\Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:12:04.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T13:12:04.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Item.cs",
               "RelativeDocumentMoniker": "Classes\\Item.cs",
@@ -96,12 +90,11 @@
               "RelativeToolTip": "Classes\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:11:50.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T13:11:50.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -109,8 +102,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:50:25.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:50:25.542Z"
             },
             {
               "$type": "Document",
@@ -120,14 +112,14 @@
               "RelativeDocumentMoniker": "Classes\\GameManager.cs",
               "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\GameManager.cs",
               "RelativeToolTip": "Classes\\GameManager.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T10:52:55.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Player.cs",
               "RelativeDocumentMoniker": "Classes\\Player.cs",
@@ -135,12 +127,11 @@
               "RelativeToolTip": "Classes\\Player.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:51:29.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:51:29.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Enemy.cs",
               "RelativeDocumentMoniker": "Classes\\Enemy.cs",
@@ -148,12 +139,11 @@
               "RelativeToolTip": "Classes\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:53:30.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:53:30.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\Room.cs",
               "RelativeDocumentMoniker": "Classes\\Room.cs",
@@ -161,25 +151,11 @@
               "RelativeToolTip": "Classes\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:53:58.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:53:58.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NormalRoom.cs",
-              "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\NormalRoom.cs",
-              "RelativeDocumentMoniker": "Classes\\NormalRoom.cs",
-              "ToolTip": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\NormalRoom.cs",
-              "RelativeToolTip": "Classes\\NormalRoom.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:54:35.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "EmptyRoom.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\EmptyRoom.cs",
               "RelativeDocumentMoniker": "Classes\\EmptyRoom.cs",
@@ -187,8 +163,7 @@
               "RelativeToolTip": "Classes\\EmptyRoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:54:14.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:54:14.511Z"
             },
             {
               "$type": "Document",
@@ -200,12 +175,11 @@
               "RelativeToolTip": "Classes\\TreasureRoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:56:06.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:56:06.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "EncounterRoom.cs",
               "DocumentMoniker": "C:\\Github\\enta-1333-repo-labs\\Assignment 2\\Classes\\EncounterRoom.cs",
               "RelativeDocumentMoniker": "Classes\\EncounterRoom.cs",
@@ -213,8 +187,7 @@
               "RelativeToolTip": "Classes\\EncounterRoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:55:51.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:55:51.594Z"
             }
           ]
         }
